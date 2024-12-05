@@ -687,7 +687,7 @@ input, select, textarea {
 			height: 5em;
 			line-height: 4.5em;
 			padding: 0;
-			background-image: url("images/dark-arrow.svg");
+			background-image: url("../../assets/images/dark-arrow.svg");
 			background-position: center center;
 			background-repeat: no-repeat;
 			text-indent: -10em;
@@ -2068,7 +2068,7 @@ input, select, textarea {
 				}
 
 				.main.dark .button.style2.down {
-					background-image: url("assets/images/dark-arrow.svg");
+					background-image: url("../../assets/images/dark-arrow.svg");
 				}
 
 		body.is-touch .main {
